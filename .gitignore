@@ -1,0 +1,8 @@
+.env  
+.DS_Store  
+*.png  
+*.lock  
+*.log
+*.txt
+*.xlsm
+__pycache__/
